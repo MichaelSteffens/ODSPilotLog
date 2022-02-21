@@ -14,7 +14,7 @@ After creation of your pilot log spreadsheet from this template
  - populate the 'Aircrafts' table with the aircrafts you operate. Be careful to remove the "nonsense" placeholder example.
  - Extend the 'Aerodromes' table by the aerodromes you use.
 
-The template  'Aerodromes' table is pre-filled with the set of aerodromes the author had the pleasure to visit as of now. It doesn't hurt retain to these, but feel free to adapt the table as needed.
+The template  'Aerodromes' table is pre-filled with the set of aerodromes the author had the pleasure to visit as of now. It doesn't hurt to retain these, but feel free to adapt the table as needed.
 
 You may fill in your pilot personal data in 'Custom Properties': name, address, date and place of birth.
 
