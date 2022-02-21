@@ -26,7 +26,7 @@ Each time you use a new aircraft or new aerodrome you need to extend these table
 
 All ten columns completed by table lookups or formulas are shaded grey. You shouldn't need any manual intervention to fill these, unless you need to record a flight of 24 h or longer, or an airfield without ICAO location indicator.
 
-This template initially provides 500 empty flight log records to be filled. When used up, extend the grey formula group colums as needed.
+This template initially provides 500 empty flight log records to be filled. When consumed, extend the grey formula group columns as needed.
 
 ## Logging Flights of  24 Hours or Longer
 
@@ -38,7 +38,7 @@ Enter 'ZZZZ' in the 'From' or 'To' column 'ICAO'. The corresping 'Name' field wi
 
 ## Accumulated Flight Times and Numbers of Landings
 
-The five rightmost colums of the 'Flight Log' sheet are computing accumulated flight times and numbers of landings, including the current row, and _limited to filtered rows_. To determine accumulated values for a specific subset, e.g. a set of aircraft types or flights logged as PIC, use the title row filters to restrict the display as needed.
+The five rightmost columns of the 'Flight Log' sheet are computing accumulated flight times and numbers of landings, including the current row, and _limited to filtered rows_. To determine accumulated values for a specific subset, e.g. a set of aircraft types or flights logged as PIC, use the title row filters to restrict the display as needed.
 
 ## Copying
 
